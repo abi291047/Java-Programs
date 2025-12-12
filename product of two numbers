@@ -1,0 +1,11 @@
+import java.uti.scanner;
+public class Product
+{
+public static void main(string[] args)
+{
+int a=5;
+int b=3;
+system.out,printf("%d",a*b);
+}
+}
+
