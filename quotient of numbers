@@ -1,0 +1,8 @@
+public class div
+{
+public static void main(string[] args)
+{
+int m;
+int n;
+system.out.println(m/n);
+}
